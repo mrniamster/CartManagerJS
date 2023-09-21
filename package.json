@@ -1,0 +1,27 @@
+{
+  "name": "shopifycartjs",
+  "version": "1.0.0",
+  "description": "A mini Javascript  library for managing shopify cart made easy ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrniamster/shopifycartjs.git"
+  },
+  "keywords": [
+    "shopify",
+    "cartjs",
+    "cartjs",
+    "shopify",
+    "cart",
+    "library"
+  ],
+  "author": "@mrniamster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrniamster/shopifycartjs/issues"
+  },
+  "homepage": "https://github.com/mrniamster/shopifycartjs#readme"
+}
