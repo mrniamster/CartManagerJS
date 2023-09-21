@@ -1,4 +1,4 @@
-# ShopifyCartJS
+# Shopify Cart Manager JS
 
 A mini Cart Management Vanilla Javascript  Library made for Shopify developers with No Dependency + Jquery.
 The idea was initally mapped with CartJS.Org ,to make a cartjs library without Jquery and add-on Improvmenets
@@ -13,8 +13,13 @@ The idea was initally mapped with CartJS.Org ,to make a cartjs library without J
 - Returns Updated CartData with each request.
 - Custom properties supported.
 - Update/ Add product to cart Based upon variatnID / cart line item KEY
+### Getting started
 
-## Example usage:
+```
+npm i cartmanagerjs
+```
+
+### Example usage:
 ```
 const cartManager = new CartManager();
 

@@ -1,6 +1,6 @@
 {
-  "name": "shopifycartjs",
-  "version": "1.0.0",
+  "name": "cartmanagerjs",
+  "version": "1.0.1",
   "description": "A mini Javascript  library for managing shopify cart made easy ",
   "main": "index.js",
   "scripts": {
