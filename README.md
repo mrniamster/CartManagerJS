@@ -65,3 +65,7 @@ cartManager.patchCartItem('your-identifier', 'your-variant-id', 2, { customPrope
 ```
 ### Improvement 
 Please ⭐️ star this repo to add more frequest updates, PR's welcomes
+
+
+### Todo
+- [ ] Support for setNotes in CartJS
